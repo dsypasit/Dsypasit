@@ -1,8 +1,7 @@
-### Hi there 👋
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100"/>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dsypasit)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Dsypasit/Dsypasit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
